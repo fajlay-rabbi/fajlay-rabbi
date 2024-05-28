@@ -29,3 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajlay-rabbi&show_icons=true&locale=en" alt="fajlay-rabbi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fajlay-rabbi&" alt="fajlay-rabbi" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
